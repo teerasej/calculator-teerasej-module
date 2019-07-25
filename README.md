@@ -12,8 +12,16 @@
 
 ## วิธีใช้งาน
 
-วิธี require module
+วิธี require module 
 
 ```js
 const calculator = require('calculator-teerasej');
+```
+
+### วิธีการบวก
+
+สำหรับการบวก ให้ใช้ function `plus()`
+
+```js
+calculator.plus(1,2) // 3
 ```
