@@ -27,3 +27,5 @@ const calculator = require('calculator-teerasej');
 ```js
 calculator.plus(1,2) // 3
 ```
+
+![2019-07-24_23-17-18](https://user-images.githubusercontent.com/85179/61846455-6062db00-aed1-11e9-8756-07c12d3fafff.png)
